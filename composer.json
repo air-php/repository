@@ -1,0 +1,12 @@
+{
+    "name": "air-php/repository",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Air\\Repository\\": "src"
+        }
+    },
+    "require": {
+        "air-php/mapper": "~0.1"
+    }
+}

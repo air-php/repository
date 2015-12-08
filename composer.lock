@@ -1,0 +1,42 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "050aa2742005f3f6df826125c80f232b",
+    "content-hash": "b6e2a135a3176328dffee8ad1933992c",
+    "packages": [
+        {
+            "name": "air-php/mapper",
+            "version": "0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/air-php/mapper.git",
+                "reference": "4405cad9afd7cf480c17868f2c043940e1c8d054"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/air-php/mapper/zipball/4405cad9afd7cf480c17868f2c043940e1c8d054",
+                "reference": "4405cad9afd7cf480c17868f2c043940e1c8d054",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Air\\Mapper\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "time": "2015-12-08 15:26:20"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
