@@ -4,21 +4,21 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "ee03295df1bc93c73d1a3031a19fd16c",
-    "content-hash": "2a8ea344f00dc1f7bbbc031b7799533c",
+    "hash": "30d21a12f69215d98c7b53f6a2be22d8",
+    "content-hash": "906d8bed5dd51c522ee84142a379215e",
     "packages": [
         {
             "name": "air-php/database",
-            "version": "0.1",
+            "version": "0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/air-php/database.git",
-                "reference": "cb67a67792d9f8cc5e38fe477c38e4b703339c4b"
+                "reference": "0053a223f3f59a211286150c5713e2474d3beb85"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/air-php/database/zipball/cb67a67792d9f8cc5e38fe477c38e4b703339c4b",
-                "reference": "cb67a67792d9f8cc5e38fe477c38e4b703339c4b",
+                "url": "https://api.github.com/repos/air-php/database/zipball/0053a223f3f59a211286150c5713e2474d3beb85",
+                "reference": "0053a223f3f59a211286150c5713e2474d3beb85",
                 "shasum": ""
             },
             "require": {
@@ -31,20 +31,20 @@
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
-            "time": "2015-12-09 10:10:31"
+            "time": "2015-12-09 11:29:51"
         },
         {
             "name": "air-php/mapper",
-            "version": "1.0",
+            "version": "2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/air-php/mapper.git",
-                "reference": "1c6cc0bef6a7c1dd72aa0bb297f9456c303e7949"
+                "reference": "d762e09c7846c56322909873045378a0862d6022"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/air-php/mapper/zipball/1c6cc0bef6a7c1dd72aa0bb297f9456c303e7949",
-                "reference": "1c6cc0bef6a7c1dd72aa0bb297f9456c303e7949",
+                "url": "https://api.github.com/repos/air-php/mapper/zipball/d762e09c7846c56322909873045378a0862d6022",
+                "reference": "d762e09c7846c56322909873045378a0862d6022",
                 "shasum": ""
             },
             "require": {
@@ -57,7 +57,7 @@
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
-            "time": "2015-12-09 10:18:21"
+            "time": "2015-12-09 11:54:51"
         },
         {
             "name": "doctrine/annotations",

@@ -7,6 +7,6 @@
         }
     },
     "require": {
-        "air-php/mapper": "~1.0"
+        "air-php/mapper": "~2.0"
     }
 }
