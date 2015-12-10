@@ -2,21 +2,21 @@
 
 namespace Air\Repository;
 
-use Air\Mapper\Mapper;
+use Air\Mapper\MapperInterface;
 
 class Repository
 {
     /**
-     * @var Mapper A mapper object.
+     * @var MapperInterface A mapper object.
      */
     protected $mapper;
 
 
     /**
      * Repository constructor.
-     * @param Mapper $mapper A mapper object.
+     * @param MapperInterface $mapper A mapper object.
      */
-    public function __construct(Mapper $mapper)
+    public function __construct(MapperInterface $mapper)
     {
         $this->mapper = $mapper;
     }
