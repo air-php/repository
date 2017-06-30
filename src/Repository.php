@@ -20,4 +20,15 @@ class Repository
     {
         $this->mapper = $mapper;
     }
+
+
+    /**
+     * Saves a collection of objects.
+     *
+     * @param Collection $collection
+     */
+    public function saveAll(Collection $collection)
+    {
+        $this->saveAll($collection);
+    }
 }
